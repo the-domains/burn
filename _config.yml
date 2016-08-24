@@ -1,0 +1,14 @@
+layout_spectrum: 0.7143851052969694
+typography_spectrum: 0.29367065872065723
+color:
+  brandStrength: 0.07843398256227374
+  lightness: 0.17686570272780955
+  saturation: 0.8907566238194704
+  rhythmicContrast: 0.2183270298410207
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: burn
